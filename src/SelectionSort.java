@@ -1,4 +1,4 @@
-// tomado de https://www.geeksforgeeks.org/selection-sort/
+// GeeksforGeeks. (2023, mayo 26). Selection Sort Data Structure and Algorithm Tutorials. https://www.geeksforgeeks.org/selection-sort/
 
 
 import java.util.Random;
