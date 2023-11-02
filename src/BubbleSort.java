@@ -1,4 +1,4 @@
-// tomado de https://www.geeksforgeeks.org/bubble-sort/
+// GeeksforGeeks. (2023, 18 septiembre). Bubble Sort data structure and algorithm tutorials. https://www.geeksforgeeks.org/bubble-sort/
 
 
 import java.util.Random;
