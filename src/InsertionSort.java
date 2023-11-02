@@ -1,4 +1,4 @@
-// tomado de https://www.geeksforgeeks.org/insertion-sort/
+// GeeksforGeeks. (2023, mayo 31). Insertion sort data structure and algorithm tutorials. https://www.geeksforgeeks.org/insertion-sort/
 
 
 import java.util.Random;
