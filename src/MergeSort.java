@@ -107,4 +107,64 @@ public class MergeSort {
 
 works
 
+Sorted small in: 1.7012ms
+Sorted medium in: 11.148ms
+Sorted big in: 102.8374ms
+
+Sorted small in: 1.0023ms
+Sorted medium in: 10.934ms
+Sorted big in: 89.8195ms
+
+Sorted small in: 0.6826ms
+Sorted medium in: 7.2347ms
+Sorted big in: 80.0732ms
+
+Sorted small in: 0.677ms
+Sorted medium in: 7.2189ms
+Sorted big in: 80.8904ms
+
+Sorted small in: 0.7088ms
+Sorted medium in: 7.2737ms
+Sorted big in: 79.8783ms
+
+Sorted small in: 0.6798ms
+Sorted medium in: 7.161ms
+Sorted big in: 79.7433ms
+
+Sorted small in: 0.6777ms
+Sorted medium in: 7.1298ms
+Sorted big in: 79.5237ms
+
+Sorted small in: 0.6731ms
+Sorted medium in: 7.2057ms
+Sorted big in: 80.2331ms
+
+Sorted small in: 0.6791ms
+Sorted medium in: 7.1572ms
+Sorted big in: 81.159ms
+
+Sorted small in: 0.6924ms
+Sorted medium in: 7.2348ms
+Sorted big in: 80.5306ms
+
+Sorted small in: 0.6761ms
+Sorted medium in: 7.1565ms
+Sorted big in: 79.1029ms
+
+Sorted small in: 0.6917ms
+Sorted medium in: 7.1022ms
+Sorted big in: 80.1214ms
+
+Sorted small in: 0.6724ms
+Sorted medium in: 7.1049ms
+Sorted big in: 79.3167ms
+
+Sorted small in: 0.6609ms
+Sorted medium in: 7.094ms
+Sorted big in: 79.9503ms
+
+Sorted small in: 0.6627ms
+Sorted medium in: 7.0157ms
+Sorted big in: 79.2958ms
+
  */

@@ -103,4 +103,64 @@ public class QuickSort {
 
 works
 
+Sorted small in: 10.4491ms
+Sorted medium in: 167.5825ms
+Sorted big in: 1411830.9342ms
+
+Sorted small in: 2.0336ms
+Sorted medium in: 178.3201ms
+Sorted big in: 1282767.4686ms
+
+Sorted small in: 2.0331ms
+Sorted medium in: 173.5721ms
+Sorted big in: 1233061.004ms
+
+Sorted small in: 2.0765ms
+Sorted medium in: 178.5343ms
+Sorted big in: 1242325.5865ms
+
+Sorted small in: 2.0285ms
+Sorted medium in: 165.9432ms
+Sorted big in: 1239381.8039ms
+
+Sorted small in: 2.0195ms
+Sorted medium in: 157.2091ms
+Sorted big in: 1231533.2896ms
+
+Sorted small in: 2.0564ms
+Sorted medium in: 186.8981ms
+Sorted big in: 1238670.618ms
+
+Sorted small in: 2.0336ms
+Sorted medium in: 171.8315ms
+Sorted big in: 1224892.2166ms
+
+Sorted small in: 2.0361ms
+Sorted medium in: 183.1212ms
+Sorted big in: 1230425.1392ms
+
+Sorted small in: 2.2863ms
+Sorted medium in: 178.0636ms
+Sorted big in: 1230465.5067ms
+
+Sorted small in: 2.0655ms
+Sorted medium in: 184.2561ms
+Sorted big in: 1250710.3291ms
+
+Sorted small in: 2.0313ms
+Sorted medium in: 177.3783ms
+Sorted big in: 1232449.6156ms
+
+Sorted small in: 2.0601ms
+Sorted medium in: 171.0459ms
+Sorted big in: 1231576.6771ms
+
+Sorted small in: 2.0378ms
+Sorted medium in: 175.7474ms
+Sorted big in: 1226769.7826ms
+
+Sorted small in: 2.0383ms
+Sorted medium in: 174.5976ms
+Sorted big in: 1217669.5231ms
+
  */

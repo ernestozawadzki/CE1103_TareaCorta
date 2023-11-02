@@ -89,4 +89,64 @@ public class RadixSort {
 
 works
 
+Sorted small in: 0.903ms
+Sorted medium in: 3.4277ms
+Sorted big in: 26.6305ms
+
+Sorted small in: 0.1192ms
+Sorted medium in: 1.1926ms
+Sorted big in: 11.9819ms
+
+Sorted small in: 0.1154ms
+Sorted medium in: 1.172ms
+Sorted big in: 12.2216ms
+
+Sorted small in: 0.1237ms
+Sorted medium in: 1.2251ms
+Sorted big in: 12.4165ms
+
+Sorted small in: 0.1292ms
+Sorted medium in: 1.2522ms
+Sorted big in: 13.9579ms
+
+Sorted small in: 0.1295ms
+Sorted medium in: 1.2308ms
+Sorted big in: 12.5805ms
+
+Sorted small in: 0.1348ms
+Sorted medium in: 1.2345ms
+Sorted big in: 12.6396ms
+
+Sorted small in: 0.1172ms
+Sorted medium in: 1.1747ms
+Sorted big in: 11.7239ms
+
+Sorted small in: 0.1238ms
+Sorted medium in: 1.2416ms
+Sorted big in: 11.598ms
+
+Sorted small in: 0.1153ms
+Sorted medium in: 1.1568ms
+Sorted big in: 11.7437ms
+
+Sorted small in: 0.1159ms
+Sorted medium in: 1.1772ms
+Sorted big in: 11.6224ms
+
+Sorted small in: 0.1159ms
+Sorted medium in: 1.142ms
+Sorted big in: 11.2926ms
+
+Sorted small in: 0.1155ms
+Sorted medium in: 1.1399ms
+Sorted big in: 11.5404ms
+
+Sorted small in: 0.13ms
+Sorted medium in: 1.1659ms
+Sorted big in: 12.0986ms
+
+Sorted small in: 0.1154ms
+Sorted medium in: 1.1369ms
+Sorted big in: 11.9334ms
+
  */
