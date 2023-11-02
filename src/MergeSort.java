@@ -1,4 +1,4 @@
-// tomado de https://www.geeksforgeeks.org/merge-sort/
+// GeeksforGeeks. (2023, julio 6). Merge Sort Data Structure and Algorithms Tutorials. https://www.geeksforgeeks.org/merge-sort/
 
 
 import java.util.Random;
