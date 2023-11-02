@@ -1,4 +1,4 @@
-// tomado de https://www.geeksforgeeks.org/quick-sort/
+// GeeksforGeeks. (2023, octubre 16). QuickSort Data Structure and Algorithm Tutorials. https://www.geeksforgeeks.org/quick-sort/
 
 
 import java.util.Random;
