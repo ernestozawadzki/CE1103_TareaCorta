@@ -1,4 +1,4 @@
-// tomado de https://www.geeksforgeeks.org/shellsort/
+// GeeksforGeeks. (2023, enero 10). ShellSort. https://www.geeksforgeeks.org/shellsort/
 
 
 import java.util.Random;
